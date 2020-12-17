@@ -20,22 +20,22 @@ With the project running, please go to [Project's Swagger](https://localhost:500
 ### Base url
 ```
 https://localhost:5001
-``
+```
 
 ### Endpoints
 #### List All People
 ```
-GET​ /people
+GET /people
 ```
 
 #### List Person
 ```
-GET​ /people/{id}
+GET /people/{id}
 ```
 
 #### Count All People
 ```
-GET​ /people/totalcount
+GET /people/totalcount
 ```
 
 #### Create Person
@@ -59,7 +59,7 @@ PUT /people
 
 #### Delete Person
 ```
-DELETE​ /people/{id}
+DELETE /people/{id}
 ```
 
 
