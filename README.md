@@ -1,0 +1,2 @@
+# SampleApplication
+.Net Core App
